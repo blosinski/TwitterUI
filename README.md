@@ -1,6 +1,6 @@
 # TwitterUI
 
-I re-created the twitter slideout menu in swiftUI. This was a great way to learn new UI techniques and create something that looks identical to the original design!
+I re-created the twitter slideout menu in SwiftUI. This was a great way to learn new UI techniques and create something that looks identical to the original design!
 
 
 
